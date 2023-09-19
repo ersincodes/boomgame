@@ -20,7 +20,7 @@ const buttonHold=document.querySelector('.btn--hold');
 
 let scores,currentScore,activePlayer,playing;
 const init = () => {
-    const scores=[0,0];
+     scores=[0,0];
      currentScore=0;
      activePlayer=0;
      playing=true;
